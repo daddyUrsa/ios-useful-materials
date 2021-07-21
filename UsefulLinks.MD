@@ -10,9 +10,9 @@ Code-style guide
 https://github.com/linkedin/swift-style-guide
 
 Хорошие сайты на английском языке: 
-https://www.raywenderlich.com
-https://medium.com/swift-programming
-https://www.hackingwithswift.com
+[Ray Wanderlich](https://www.raywenderlich.com)
+[Medium](https://medium.com/swift-programming)
+[Hacking with Swift](https://www.hackingwithswift.com)
 
 Сайты на русском: 
 https://habr.com/ru/hub/ios_dev/ 
