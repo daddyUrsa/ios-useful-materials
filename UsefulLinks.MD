@@ -15,7 +15,7 @@ Code-style guide
 [Hacking with Swift](https://www.hackingwithswift.com)  
 
 Сайты на русском:  
-[Хабр](h)ttps://habr.com/ru/hub/ios_dev/)  
+[Хабр](https://habr.com/ru/hub/ios_dev/)  
 [Swifty Finch](https://swiftyfinch.github.io)
 
 Платформы для тренировки в решении задачек:  
@@ -26,7 +26,7 @@ Code-style guide
 [Artem Novichkov](https://www.artemnovichkov.com)  
 
 Группы в ВК:  
-[https://vk.com/theswiftdevelopers](https://vk.com/theswiftdevelopers)  
+[The Swift Developers| Сообщество разработчиков](https://vk.com/theswiftdevelopers)  
 
 Каналы в youtube:  
 [The Swift Developers](https://www.youtube.com/channel/UCiyiEAeWUuuPj6tt_jePALQ)  
