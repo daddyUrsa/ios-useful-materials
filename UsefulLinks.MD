@@ -7,7 +7,7 @@ Human Interface Guidelines
 [https://developer.apple.com/design/human-interface-guidelines/](https://developer.apple.com/design/human-interface-guidelines/)
 
 Code-style guide  
-https://github.com/linkedin/swift-style-guide
+[https://github.com/linkedin/swift-style-guide](https://github.com/linkedin/swift-style-guide)
 
 Хорошие сайты на английском языке:  
 [Ray Wanderlich](https://www.raywenderlich.com)  
@@ -15,36 +15,36 @@ https://github.com/linkedin/swift-style-guide
 [Hacking with Swift](https://www.hackingwithswift.com)  
 
 Сайты на русском:  
-https://habr.com/ru/hub/ios_dev/ 
-https://swiftyfinch.github.io
+[Хабр](h)ttps://habr.com/ru/hub/ios_dev/)  
+[Swifty Finch](https://swiftyfinch.github.io)
 
 Платформы для тренировки в решении задачек:  
-https://www.hackerrank.com
-https://www.codewars.com
+[HackerRank](https://www.hackerrank.com)  
+[Codewars](https://www.codewars.com)
 
 **Блог нашего преподавателя Артёма Новичкова:**  
-https://www.artemnovichkov.com
+[Artem Novichkov](https://www.artemnovichkov.com)  
 
-Группы в ВК  
-https://vk.com/theswiftdevelopers
+Группы в ВК:  
+[https://vk.com/theswiftdevelopers](https://vk.com/theswiftdevelopers)  
 
-Каналы в youtube  
-https://www.youtube.com/channel/UCiyiEAeWUuuPj6tt_jePALQ
-https://www.youtube.com/channel/UChR0_wfiEHRy9TQIN51H-OA
-https://www.youtube.com/channel/UChfEfFKYILtO5yZSX2irynw
-https://www.youtube.com/c/SeanAllen
-https://www.youtube.com/c/CocoaHeads 
+Каналы в youtube:  
+[The Swift Developers](https://www.youtube.com/channel/UCiyiEAeWUuuPj6tt_jePALQ)  
+[Alex Skutarenko](https://www.youtube.com/channel/UChR0_wfiEHRy9TQIN51H-OA)  
+[Ivan Skorokhod](https://www.youtube.com/channel/UChfEfFKYILtO5yZSX2irynw)  
+[Sean Allen](https://www.youtube.com/c/SeanAllen)  
+[CocoaHeads](https://www.youtube.com/c/CocoaHeads)  
 
-Группы в telegram  
-https://t.me/joinchat/Qswat5FErtb3cPfV
-https://t.me/swiftbookstart_chat
-https://t.me/ios_ru
-https://t.me/iosgr 
+Группы в telegram:  
+[Сообщество разработчиков](https://t.me/joinchat/Qswat5FErtb3cPfV)  
+[Изучаем Swift](https://t.me/swiftbookstart_chat)  
+[iOS Developers — русскоговорящее сообщество](https://t.me/ios_ru)  
+[iOS Good Reads – swift](https://t.me/iosgr)  
 
-Предложения о работе  
-https://t.me/mobile_jobs
+Предложения о работе:  
+[Mobile Dev Jobs — вакансии и аналитика](https://t.me/mobile_jobs)
 
-Много полезных ссылок  
-https://iosdevdirectory.com
+Много полезных ссылок:  
+[https://iosdevdirectory.com](https://iosdevdirectory.com)
 
 
